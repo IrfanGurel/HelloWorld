@@ -1,2 +1,6 @@
-## HelloWorld
-This is my first repository
+# HelloWorld
+## This is my first repository
+**BOLD**
+*Italic*
+:pizza:
+:coffee:
